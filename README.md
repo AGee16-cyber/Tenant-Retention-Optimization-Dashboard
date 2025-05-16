@@ -1,1 +1,4 @@
 # Tenant-Retention-Optimization-Dashboard
+This Power BI dashboard focuses on Tenant Retention Optimization. It provides a comprehensive view of tenant satisfaction, churn risk, lease details, and rent collection performance. The key metrics highlighted are a 50% Churn Rate, an Average Satisfaction Score of 3.02, an 89% Average Occupancy Rate, an Average Rent of $1.76K, and a low 7% Rent Collection (this seems unusually low and might be an error or requires further investigation).
+
+The dashboard allows filtering by Month, Year, and Property Type, enabling granular analysis. It delves into churn status and satisfaction scores by property type, satisfaction scores based on tenant survey responses, the frequency of lease terms, and a comparison of renewed versus expired leases. It also tracks churn rate by month, renewed vs. expired leases over time, average satisfaction score trends, and rent collection performance month by month.
